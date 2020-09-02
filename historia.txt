@@ -1,5 +1,6 @@
 Esta es la historia de Neidalis Urdaneta
 
-Neidalis Urdaneta tiene 29 años y nacio en Venezuela
+Neidalis Urdaneta tiene 28 años y nacio en Venezuela 
+ahora viviendo en Colombia
 
 hoy hablaremos de git.
